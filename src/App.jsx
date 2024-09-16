@@ -1,5 +1,6 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap';
 import Funcex from "./Functioncomp/Funcex"
 import Counter from "./Functioncomp/Counter";
 import List from "./Functioncomp/List";
