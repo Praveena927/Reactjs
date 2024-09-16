@@ -1,0 +1,42 @@
+.bg1{
+    background-color: rgb(78, 55, 58);
+    position: relative;
+}
+.img{
+    border-radius: 700px;
+    height: 150px;
+    width: 150px;
+    margin: 30px;
+}
+.bg2{
+    background-color: rgb(167, 144, 144);
+    position: absolute;
+    height: fit-content;
+    width:900px ;
+    top: 50px;
+    left:900px;
+    border-radius: 20px;
+   
+}
+.div{
+    float: right;
+    margin-right:489px ;
+    margin-top:70px ;
+}
+.h1{
+    font-size: 50px;
+    margin-top: 15px;
+    margin-left: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btn{
+    width: 350px;
+    background-color: rgb(71, 55, 71);
+    height: 50px;
+    font-size: 25px;
+    margin-left:230px ;
+    margin-bottom: 30px;
+    color: bisque;
+}
+
+ 
