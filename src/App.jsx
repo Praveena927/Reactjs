@@ -23,7 +23,7 @@ function App(){
     {/* <Bday/> */}
     {/* <Fold/> */}
     {/* <Grocerycomp/> */}
-    <Reduer/>
+    {/* <Reduer/> */}
     </>
 
   )
